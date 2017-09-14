@@ -1,7 +1,7 @@
 package lang;
 
 /**
- * lang 包
+ * lang  包
  * @author fxf
  * @create 2017-09-12 15:24
  **/
