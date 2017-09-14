@@ -1,7 +1,6 @@
 package lang;
 
 /**
- * lang包学习
  * @author fxf
  * @create 2017-09-12 15:24
  **/
