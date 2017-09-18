@@ -1,0 +1,26 @@
+java.lang包说明：
+
+Object类
+
+数据类型包装类
+
+字符处理--Strin类
+          StringBuffer类
+
+线程类--Thread类
+        ThreadDeoth
+        Runnablel
+
+错误和异常处理类--Trowable
+                  Exception
+                  Error
+
+数学类Math
+
+过程类Process
+
+系统和运行类——System类
+                Runtime类
+
+操作类——Class类
+          ClassLoader类

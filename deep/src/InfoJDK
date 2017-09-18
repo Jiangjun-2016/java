@@ -1,0 +1,75 @@
+Java类库
+
+java.lang包说明：{
+
+Object类
+
+数据类型包装类
+
+字符处理--Strin类
+          StringBuffer类
+
+线程类--Thread类
+        ThreadDeoth
+        Runnablel
+
+错误和异常处理类--Trowable
+                  Exception
+                  Error
+
+数学类Math
+
+过程类Process
+
+系统和运行类——System类
+                Runtime类
+
+操作类——Class类
+          ClassLoader类
+}
+
+java.util包说明：{
+日期类——Date类
+          Calendar类
+          GregorianCalendar类
+数据结构类——链表类LinkedList
+              向量类Vector
+              栈类Stack
+              散列表类Hashtable
+随机数类Random
+}
+
+java.io包说明：{
+InputStream
+OutputStream
+}
+
+java.applet包
+
+java.awt包{
+组件类——Button
+          Panel
+          Label
+          Choose
+事件包event
+颜色包color
+字体包font
+}
+
+java.swing包
+
+java.net包{
+Socket类
+处理URL的类
+}
+
+
+
+
+
+
+
+
+
+
+
